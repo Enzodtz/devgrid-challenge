@@ -1,0 +1,4 @@
+db:
+  uri: "mysql://test_user:test_password@db:3306/test_db"
+kafka:
+  uri: "kafka:9092"

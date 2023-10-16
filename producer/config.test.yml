@@ -1,0 +1,4 @@
+db:
+  uri: "sqlite:///test.db"
+kafka:
+  uri: "kafka:9092"

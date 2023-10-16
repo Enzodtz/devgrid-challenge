@@ -1,0 +1,7 @@
+db:
+  uri: "sqlite:///test.db"
+open_weather_api:
+  url: https://api.openweathermap.org/data/2.5/group?appid=
+  key: 5a4179a15197d7d2666e740341022332
+kafka:
+  uri: "kafka:9092"
